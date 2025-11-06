@@ -1,0 +1,18 @@
+h1{
+  font-size: 20px;
+  font-size: 20pt;
+}
+/*we acn write font size in pixels and points  likw px and pt*/
+
+/* em and rem */
+/* em means 100% of the parent font size 1em means 1xparent font size 2 em means 2xparent font size and In CSS, rem stands for "root em" and is a relative unit of measurement. It is relative to the font size of the root element, which is typically the <html> tag in an HTML document.  */
+
+/* font weight */
+
+/* normal , bold is keywords
+
+lighter , bolder  relative to parent 
+
+number 100-200 */
+
+/* font family */
