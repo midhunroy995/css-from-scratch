@@ -124,3 +124,24 @@ lighter , bolder  relative to parent
 number 100-200 */
 
 /* font family */
+
+--> inspecting CSS
+---------------------
+Inspecting CSS on a webpage is primarily achieved using the Developer Tools available in modern web browsers. These tools allow examination of the HTML structure and the CSS rules applied to individual elements.
+Steps to Inspect CSS:
+Open Developer Tools:
+Right-click and Inspect: Right-click on the specific element on the webpage whose CSS you want to inspect, and select "Inspect" or "Inspect Element" from the context menu. This will open the Developer Tools with the selected element highlighted in the HTML structure.
+Keyboard Shortcut: Press F12 (on Windows/Linux) or Command+Option+I (on Mac) to open the Developer Tools.
+Browser Menu: Navigate through the browser's menu (e.g., Chrome: View > Developer > Developer Tools).
+Navigate to the Styles Panel: Once Developer Tools are open, locate the "Elements" or "Inspector" panel, which displays the HTML structure. Alongside this, there will be a "Styles" or "Computed" panel. This panel shows all the CSS rules applied to the currently selected HTML element.
+
+Examine and Modify CSS:
+View Applied Styles: The "Styles" panel lists all the CSS rules affecting the selected element, including inherited styles and those being overwritten (often indicated by a strikethrough).
+Live Editing: You can click within individual CSS properties and values in the "Styles" panel to modify them in real-time. These changes are immediately reflected on the webpage, allowing for live preview and experimentation. Note that these changes are temporary and do not alter the source code of the webpage.
+Add New Rules: You can also add new CSS properties and values to an element directly within the "Styles" panel.
+
+Key Features and Benefits:
+Understanding Layout and Styling: Gain insight into how a webpage's visual appearance is achieved through CSS rules.
+Debugging CSS Issues: Identify and troubleshoot styling problems by examining the applied rules and their order of precedence.
+Experimentation: Test different CSS modifications in a live environment without affecting the actual website code.
+Learning and Development: Analyze the CSS of existing websites to learn from their design and implementation.
